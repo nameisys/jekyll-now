@@ -14,10 +14,14 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+// Font Import
+@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$sedgwickAve: 'Sedgwick Ave', cursive;
 
 // Mobile breakpoints
 @mixin mobile {
