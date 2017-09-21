@@ -15,13 +15,15 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font Import
-@import url('https://fonts.googleapis.com/css?family=Sedgwick+Ave');
+@import url('//fonts.googleapis.com/earlyaccess/notosanskr.css');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,900i');
 
 // Font stacks
+$notoSans: 'Noto Sans KR', sans-serif;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-$sedgwickAve: 'Sedgwick Ave', cursive;
+$playfairDisplay: 'Playfair Display', serif;
 
 // Mobile breakpoints
 @mixin mobile {

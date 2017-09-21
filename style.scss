@@ -20,14 +20,14 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 16px/1.6 $notoSans;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 0 25px;
   width: 100%;
 }
 
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 2em 0 10px;
   padding: 0;
 
   @include mobile {
@@ -66,6 +66,14 @@ h4 {
 }
 
 p {
+  margin: 40px 0;
+}
+
+h2+p {
+  margin-top: 20px;
+}
+
+hr {
   margin: 15px 0;
 }
 
@@ -79,7 +87,7 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin: 35px 0;
   padding-left: 30px;
 }
 
@@ -109,6 +117,7 @@ strong, b {
 
 img {
   max-width: 100%;
+  margin: 1em 0;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -177,7 +186,8 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 50%;
+    margin: 0;
   }
 }
 
@@ -214,7 +224,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $sedgwickAve;
+  font-family: $playfairDisplay;
   font-size: 18px;
   text-transform: uppercase;
 
@@ -229,7 +239,8 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: 900;
+    font-style: italic;
     letter-spacing: 1px;
 
     &:hover {
@@ -251,6 +262,11 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  a {
+    &:hover {
+      animation: ani-text 300ms infinite;
+    }
+  }
 }
 
 .posts > .post:last-child {
@@ -269,7 +285,7 @@ nav {
   }
 
   .comments {
-    margin-top: 10px;
+    margin-top: 30px;
   }
 
   .read-more {
@@ -289,6 +305,7 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
