@@ -25,7 +25,7 @@ title: SUMMER SONIC 2017 OSAKA - 0. prologue
 ![_config.yml]({{ site.baseurl }}/images/post/prologue/post_1_1.png)
 
 
-우정님이 2014년 다녀오신 영국의 [Glastonbury Festival](http://www.glastonburyfestivals.co.uk/) 이야기도 해주시고, 국내 페스티벌 이야기도 해주시면서 열심히 뽐뿌를 넣어주셨다.
+우정님이 2014년 다녀오신 영국의 [Glastonbury Festival](http://www.glastonburyfestivals.co.uk/){: target="_blank" } 이야기도 해주시고, 국내 페스티벌 이야기도 해주시면서 열심히 뽐뿌를 넣어주셨다.
 이 자리를 빌려 감사드리고요..<br>
 나는 이미 마음속에 *SUMMER SONIC* 바람이 살랑살랑 불고 있었기 때문에 마음 굳히는 건 쉬웠다.
 
@@ -43,14 +43,14 @@ title: SUMMER SONIC 2017 OSAKA - 0. prologue
 ## 본격적인 소비
 
 파티원도 생겼겠다, 그 후로는 빠르게 돈을 쓰기 시작했다.(...)<br>
-오사카 양일권은 ￥25,500(세금 포함)이었고 한화로 26만원 조금 넘게 결제 된 것 같다. 해외에서 구매하는 사용자를 위해 영어로 되어있는 페이지가 있었기 때문에 구매에 어려움은 없었다. [(티켓 구매한 페이지)](http://www.summersonic.com/2017/english/osaka.html#price)<br>
+오사카 양일권은 ￥25,500(세금 포함)이었고 한화로 26만원 조금 넘게 결제 된 것 같다. 해외에서 구매하는 사용자를 위해 영어로 되어있는 페이지가 있었기 때문에 구매에 어려움은 없었다. [(티켓 구매한 페이지)](http://www.summersonic.com/2017/english/osaka.html#price){: target="_blank" }<br>
 나중에 라쿠텐 티켓 링크도 열리고 하던데, 내가 구매할 때는 e+에서 제공하는 링크밖에 없었다.
 
 페스티벌 티켓을 구매하고 3일 뒤 항공권도 빠르게 구매했다. ~~피치 못해 타는~~ 피치항공을 최대한 피했더니 티웨이가 최저가였다.
 나중에 여쭤보니 승민님, 태환님도 같은 항공권을 구매하셨더라!
 
 같은 날 숙소도 예약해버렸다. 원래 혼자 갈 것을 생각해서(밤늦게 숙소에 돌아가야 하니까) 지하철역에서 멀어도 5분 거리에 있는 게스트 하우스를 추려서 보고 있었는데,
-그 중 침대가 가장 넓고 조용한 주택가에 있는 [Hostel Teltel Bouzu](https://www.agoda.com/ko-kr/pages/agoda/default/DestinationSearchResult.aspx?asq=X9RoXt6vK6k%2b%2fh63JRLMCegomJCOFBYzXWddV02fL9DXjkgAXRs5G%2bUYO2kWoBMy1rowxF%2bJDIxkgk19RG%2fK%2fZpBLG7U%2bazRQVmrQceQ6uBfCKfue%2bCJwAjdLLzaHx4x&type=1&device=c&network=g&adid=140380629085&rand=9786204373355831996&expid=&adpos=1t1&site_id=1732624&tag=386e42f9-e9ba-2b61-389a-6b8ace069d81&url=http://www.agoda.com/ko-kr/hostel-teltelbouzu/hotel/osaka-jp.html&gclid=EAIaIQobChMI9_OU2Ya01gIVGgQqCh2w0wElEAAYASAAEgL0JfD_BwE&cklg=1)를 예약했다.
+그 중 침대가 가장 넓고 조용한 주택가에 있는 [Hostel Teltel Bouzu](https://www.agoda.com/ko-kr/pages/agoda/default/DestinationSearchResult.aspx?asq=X9RoXt6vK6k%2b%2fh63JRLMCegomJCOFBYzXWddV02fL9DXjkgAXRs5G%2bUYO2kWoBMy1rowxF%2bJDIxkgk19RG%2fK%2fZpBLG7U%2bazRQVmrQceQ6uBfCKfue%2bCJwAjdLLzaHx4x&type=1&device=c&network=g&adid=140380629085&rand=9786204373355831996&expid=&adpos=1t1&site_id=1732624&tag=386e42f9-e9ba-2b61-389a-6b8ace069d81&url=http://www.agoda.com/ko-kr/hostel-teltelbouzu/hotel/osaka-jp.html&gclid=EAIaIQobChMI9_OU2Ya01gIVGgQqCh2w0wElEAAYASAAEgL0JfD_BwE&cklg=1){: target="_blank" }를 예약했다.
 나가호리바시역에서 도보로 5분 정도에 있고 번화가와 적당히 가까우며 SUMMER SONIC 셔틀버스가 정차하는 코스모 스퀘어역에서 지하철로 30분~40분으로 위치가 괜찮았다.
 
 나의 사마소니꾸를 위해 인터넷으로 할 수 있는 소비는 끝났다.<br>
