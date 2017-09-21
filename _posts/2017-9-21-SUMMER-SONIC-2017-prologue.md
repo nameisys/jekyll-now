@@ -25,7 +25,7 @@ title: SUMMER SONIC 2017 OSAKA - 0. prologue
 ![_config.yml]({{ site.baseurl }}/images/post/prologue/post_1_1.png)
 
 
-우정님이 2015년 다녀오신 영국의 [Glastonbury Festival](http://www.glastonburyfestivals.co.uk/) 이야기도 해주시고, 국내 페스티벌 이야기도 해주시면서 열심히 뽐뿌를 넣어주셨다.
+우정님이 2014년 다녀오신 영국의 [Glastonbury Festival](http://www.glastonburyfestivals.co.uk/) 이야기도 해주시고, 국내 페스티벌 이야기도 해주시면서 열심히 뽐뿌를 넣어주셨다.
 이 자리를 빌려 감사드리고요..<br>
 나는 이미 마음속에 *SUMMER SONIC* 바람이 살랑살랑 불고 있었기 때문에 마음 굳히는 건 쉬웠다.
 
