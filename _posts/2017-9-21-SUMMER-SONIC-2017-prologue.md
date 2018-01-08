@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SUMMER SONIC 2017 OSAKA - 0. prologue
+title: SUMMER SONIC 2017 OSAKA 후기 - 0. prologue
 ---
 
 *SUMMER SONIC* 에 다녀온 지 어느새 30일이 넘었다.<br>
