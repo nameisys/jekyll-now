@@ -3,7 +3,7 @@ layout: post
 title: WHAT I AM LISTENING 
 ---
 
-![_config.yml]({{ site.baseurl }}/images/post/kyoto/IMG_0227.jpg){: .post-image }
+![_config.yml]({{ site.baseurl }}/images/post/kyoto/IMG_0227.JPG){: .post-image }
 
 ## DEC 17 MON
 * [Ocean Alley - 'Confidence' (live on triple j)](https://youtu.be/oMJ25zNn0RE)
