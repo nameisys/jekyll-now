@@ -10,7 +10,7 @@ title: 내가 보려고 만든 AWS 칱 싵
 # Configure
 * aws cli로 user pools에 무슨 짓을 하고싶다면 App clients 만들때 Generate client secret를 꼭 체크 해제 하거라.. 이거땜시 Unable to verify secret hash for client 계속 봤네
 
-## Command
+# Command
 * 테스트 하려면 id_key 필요 > 앗 테스트 계정 비번 까먹음;
 <pre>
 <code>aws cognito-idp forgot-password --client-id {CLIENT_ID} --username {USERNAME}</code>
