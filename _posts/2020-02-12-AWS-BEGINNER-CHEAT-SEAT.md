@@ -13,18 +13,18 @@ title: 내가 보려고 만든 AWS 칱 싵
 ## Command
 * 테스트 하려면 id_key 필요 > 앗 테스트 계정 비번 까먹음;
 ```console
-aws cognito-idp forgot-password --client-id {CLIENT_ID} --username {USERNAME}</code>
+aws cognito-idp forgot-password --client-id {CLIENT_ID} --username {USERNAME}
 ```
 
 
 * 인증코드 받아서 비밀번호 변경
 ```console
-aws cognito-idp confirm-forgot-password --client-id {CLIENT_ID} --username={USERNAME} --password {NEW_PASSWORD} --confirmation-code {CODE}</code>
+aws cognito-idp confirm-forgot-password --client-id {CLIENT_ID} --username={USERNAME} --password {NEW_PASSWORD} --confirmation-code {CODE}
 ```
 
 * 아이디, 비밀번호 알았으니 auth 정보 가져오기
 ```console
-aws cognito-idp admin-initiate-auth --user-pool-id=eu-central-1_{USER_POOL_ID} --client-id={CLIENT_ID} --auth-flow=ADMIN_NO_SRP_AUTH --auth-parameters=USERNAME={USERNAME},PASSWORD={PASSWORD}</code>
+aws cognito-idp admin-initiate-auth --user-pool-id=eu-central-1_{USER_POOL_ID} --client-id={CLIENT_ID} --auth-flow=ADMIN_NO_SRP_AUTH --auth-parameters=USERNAME={USERNAME},PASSWORD={PASSWORD}
 ```
 
 ---
